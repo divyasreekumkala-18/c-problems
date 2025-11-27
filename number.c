@@ -14,5 +14,7 @@ int main()
     }
     else 
     {
-        printf(" %d is larger", c);    }
+        printf(" %d is larger", c);   
+    }
+    return 0;
 }
